@@ -1,0 +1,9 @@
+.not-found {
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+.not-found img {
+  width: 300px;
+}
